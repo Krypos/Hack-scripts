@@ -1,0 +1,10 @@
+REM Author: @Krypos | 
+DELAY 1000
+GUI r
+DELAY 500
+STRING chrome
+ENTER
+DELAY 500
+STRING https://www.pornhub.com/
+ENTER
+F11
